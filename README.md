@@ -3,13 +3,6 @@ Name: Hudson Passos
 
 - An introduction which contains your original personal learning plan
 
-
-
-
-
-
-
-
 - A readme file for each personal learning goal which includes information about:
 o The background
 o Methodology and data source used

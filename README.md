@@ -11,7 +11,7 @@ The needs of the first objective were well aligned with what I had defined in my
 (2) Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
 
 (3) Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE.
-
+\
 
 **Data sources:**
 
@@ -45,9 +45,27 @@ The needs of the first objective were well aligned with what I had defined in my
 
 
 The spreadsheet with a detailed description of all the datasets used in the project can be accessed at the link: https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx
+\
 
+**Methodology**
 
+The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. To do this, it was necessary to complete the following steps:
 
+- Search and download the datasets, and understand the data and how the information is organized in it;
+- Clean the data with information without coordinates, not a number and inconsistent values;
+- Prepare the data by applying filters to obtain subsets with part of the specific data that we wanted to use (e.g., country Poland, pollutant NOx, etc.);
+- Combine the data into an integrated dataframe, where first we relate the dataframe of air quality measurement stations, with their coordinates, and the dataframe with the emissions and the name of the measurement stations. Then, we concatenate the data of industrial emissions, traffic, and air pollution;
+- Prepare the maps and bar charts for data analysis;
+- Prepare the integrated dataframe for machine learning:
+  - Standardization
+  - Split into training and test data
+  - Run the grid search to get the best hyperparameters
+  - Run the XGBoost model
+  - Evaluate the model (cross-validation)
+  - Features importance analysis
+ \
+ 
+s
 
 
 

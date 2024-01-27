@@ -79,6 +79,7 @@ https://github.com/hudsonpassos85/DSSE-Individual-Portfolio/blob/main/Objective%
 <br>
 
 **Results**
+
 The energy sector emerged as the primary source of NOx emissions in the generated graphs, especially in the provinces of Slaskie, Lodzkie, and Mazowieckie. In second place, emissions from motor vehicle traffic (urban buses, lorries, and road tractors) are present in all provinces, with the highest level in the province of Mazowieckie, which contains the city of Warsaw, the capital and largest city of Poland. In third place comes the mining industry, which, despite emitting little in comparison to the first two polluting agents, has a relatively extensive presence in the Polish territory. The rest have scattered, localized, and low contributions. 
 
 One factor that stands out is the absence of NOx emissions from intensive livestock. A quick search of the data showed that in 2019, the fractions recorded for the entire livestock and aquaculture industry were 80% NH3, 10% CH4, 4% N2O, and 4% PM10. Therefore, the vast majority of nitrogen gas emissions are expelled in the form of ammonia.

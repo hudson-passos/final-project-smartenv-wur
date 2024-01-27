@@ -105,9 +105,7 @@ We can draw this conclusion with regard to both methods, because we used the sam
 
 **Conclusions on the accomplishment of the goals**
 
-With regard to the learning goals, I consider that all were successfully met, in addition to having been a great satisfaction to be able to work within the course in areas of knowledge in which we would like to delve deeper. Spatial analysis with GeoPandas, for example, is something that I will use more frequently throughout the course and my career. Similarly, the use of Github, which I have always found to have a somewhat unintuitive interface in some aspects, proved to be an excellent tool for sharing code and even text.
-
-
+As for the learning goals, I think they were all met successfully. It was also a great satisfaction to be able to work on areas of knowledge that we were interested in. For example, I will use spatial analysis with GeoPandas more often throughout the course and my career. Similarly, I found that Github, which I always thought had a somewhat unintuitive interface, is an excellent tool for sharing code and even text.
 
 
 

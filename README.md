@@ -46,8 +46,9 @@ The needs of the first objective were well aligned with what I had defined in my
 
 
 The spreadsheet with a detailed description of all the datasets used in the project can be accessed at the link: https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx
-
-
+<br>
+<br>
+<br>
 **Methodology**
 
 The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. To do this, it was necessary to complete the following steps:
@@ -64,8 +65,9 @@ The methodology consists of extracting information related to pollution, emissio
   - Run the XGBoost model
   - Evaluate the model (cross-validation)
   - Features importance analysis
- 
- 
+<br>
+<br>
+<br>
 s
 
 

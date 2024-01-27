@@ -16,11 +16,11 @@ The needs of the first objective were well aligned with what I had defined in my
 Data sources:
 
 - Air pollution: \
--- Source: Inspekcja Ochrony Środowiska \
--- Product: emissions of NOx air pollution (kg) \
--- Type: csv \
--- Spatial distribution: points (air quality measuremente stations) \
--- Link: https://powietrze.gios.gov.pl/pjp/archives 
+  - Source: Inspekcja Ochrony Środowiska \
+  - Product: emissions of NOx air pollution (kg) \
+  - Type: csv \
+  - Spatial distribution: points (air quality measuremente stations) \
+  - Link: https://powietrze.gios.gov.pl/pjp/archives 
 
 - Traffic: \
 -- Source: Statistics Poland \

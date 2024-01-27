@@ -3,8 +3,10 @@
 The learning goals ("Introduction.ipynb") were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Among the criteria also included forming realistic goals to be developed in just three weeks.
 
 Initially, we chose to choose a topic related to air quality, and we would like the study area to be located in Europe, as there is an abundant amount of data and ease of language. In the first researches, we noticed that Poland has very high air pollution levels and this motivated us to seek to better understand the causes and consequences of this case. The project was titled: "Investigating Causes and Impacts of Air Pollution in Poland" and we divided it into three objectives: <br>
-1. "Analyze the contribution of sources of Nitrogen Oxides (NOx) to the air pollution in Poland in 2019", 
-2. "Investigate the relationship between traffic and emissions using machine learning and predict the emission in 2023", 3. "Investigate the relationship of annual average concentration of PM 2.5 and rate of death caused by respiratory diseases". <br>
+1. "Analyze the contribution of sources of Nitrogen Oxides (NOx) to the air pollution in Poland in 2019". 
+2. "Investigate the relationship between traffic and emissions using machine learning and predict the emission in 2023".
+3. "Investigate the relationship of annual average concentration of PM 2.5 and rate of death caused by respiratory diseases".
+   
 After the definition of the objectives, we assigned the group members responsible for developing these tasks: the first objective was assigned to Qin Xu (Olive) and I; the second was under Dong Liang; and the third was with Pamungkas Intam and Sabrina Ramadwiriani.
 
 The needs of the first objective were well aligned with what I had defined in my learning goals:

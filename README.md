@@ -11,11 +11,11 @@ After the definition of the objectives, we assigned the group members responsibl
 
 The needs of the first objective were well aligned with what I had defined in my learning goals:
 
-(1) Geospatial analysis in GeoPandas: We did all the geospatial analyses using Pandas and GeoPandas. This learning goal was challenging, especially in terms of generating subplots of multiple GeoPandas objects. However, it was surprising how similar GeoPandas is to Pandas and this made this tool much more familiar than I imagined. Fortunately, all the operations and analyses that I would do with some of the GIS applications, with which I am more familiar, I was able to perform with Pandas/GeoPandas.
+1. Geospatial analysis in GeoPandas: We did all the geospatial analyses using Pandas and GeoPandas. This learning goal was challenging, especially in terms of generating subplots of multiple GeoPandas objects. However, it was surprising how similar GeoPandas is to Pandas and this made this tool much more familiar than I imagined. Fortunately, all the operations and analyses that I would do with some of the GIS applications, with which I am more familiar, I was able to perform with Pandas/GeoPandas.
 
-(2) Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
+2. Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
 
-(3) Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE. 
+3. Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE. 
 <br>
 <br>
 <br>

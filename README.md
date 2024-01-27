@@ -1,6 +1,6 @@
 **Background**
 
-The learning goals ("Introduction.ipynb") were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Among the criteria also included forming realistic goals to be developed in just three weeks.
+The learning goals were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Among the criteria also included forming realistic goals to be developed in just three weeks. The link to the individual plan can be accessed on this link: https://github.com/hudsonpassos85/DSSE-Individual-Portfolio/blob/main/Introduction.ipynb.
 
 Initially, we chose to choose a topic related to air quality, and we would like the study area to be located in Europe, as there is an abundant amount of data and ease of language. In the first researches, we noticed that Poland has very high air pollution levels and this motivated us to seek to better understand the causes and consequences of this case. The project was titled: "Investigating Causes and Impacts of Air Pollution in Poland" and we divided it into three objectives: <br>
 1. "Analyze the contribution of sources of Nitrogen Oxides (NOx) to the air pollution in Poland in 2019". 

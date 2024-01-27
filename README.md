@@ -68,7 +68,9 @@ The methodology consists of extracting information related to pollution, emissio
 <br>
 <br>
 <br>
+
 **Details about the implementation**
+
 The entire implementation can be accessed in full through the link:
 
 

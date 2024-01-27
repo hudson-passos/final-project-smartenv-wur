@@ -12,7 +12,8 @@ The needs of the first objective were well aligned with what I had defined in my
 
 (3) Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE. 
 <br>
-
+<br>
+<br>
 **Data sources:**
 
 - Administrative boundaries: 

@@ -100,6 +100,7 @@ The results show that the most appropriate methodology for obtaining insights in
 Our initial conception that feature importance analysis could identify the most important sources for air pollution did not prove to be an appropriate methodology for this purpose. The difference is that feature importance is focused on identifying the best features exclusively for air pollution prediction, without causal relationship, only in terms of correlation. The chemical industry, for example, contributes very little to air pollution in Poland, and yet it was the second feature with the highest importance for prediction, because where there are regions with huge NOx emissions, this industry is absent. This pattern was noticed during training and became crucial for the model to correctly predict NOx air pollution concentration.
 
 We can draw this conclusion with regard to both methods, because we used the same pollutants, with the same units of measurement for the explanatory variables. However, perhaps feature importance would be more useful if we were using explanatory data that cannot be directly compared, such as the number of vehicles per year in a given province.
+
 <br>
 
 **Conclusions on the accomplishment of the goals**

@@ -79,6 +79,15 @@ https://github.com/hudsonpassos85/DSSE-Individual-Portfolio/blob/main/Objective%
 <br>
 
 **Results**
+The energy sector emerged as the primary source of NOx emissions in the generated graphs, especially in the provinces of Slaskie, Lodzkie, and Mazowieckie. In second place, emissions from motor vehicle traffic (urban buses, lorries, and road tractors) are present in all provinces, with the highest level in the province of Mazowieckie, which contains the city of Warsaw, the capital and largest city of Poland. In third place comes the mining industry, which, despite emitting little in comparison to the first two polluting agents, has a relatively extensive presence in the Polish territory. The rest have scattered, localized, and low contributions. 
+
+One factor that stands out is the absence of NOx emissions from intensive livestock. A quick search of the data showed that in 2019, the fractions recorded for the entire livestock and aquaculture industry were 80% NH3, 10% CH4, 4% N2O, and 4% PM10. Therefore, the vast majority of nitrogen gas emissions are expelled in the form of ammonia.
+
+The feature importance analysis produced a slightly different outcome. The NOx emissions from the energy sector is the feature that contributes most to the final prediction of NOx air pollution (score 32). In second place of importance comes the chemical industry, with 20 score. In third, mineral industry, with 10 score. The remaining features do not offer significant contribution to the final prediction.
+
+It is important to note that not necessarily the factors that are responsible for large emissions of pollutants are the ones that contribute the most to the prediction. In this case, there was a coincidence with the energy sector, which is indeed a major polluter. However, the same cannot be said of the chemical industry, which seems to contribute precisely because it has an inverse correlation. Where there is a presence of enormous emissions, there is an absence of the chemical industry in the data; and the lower the total emissions of the provinces, the presence (although modest) of emissions from this industry is noted.
+
+<br>
 
 **Conclusions both on the results as well as on the accomplishment of the goal**
 

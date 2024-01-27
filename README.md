@@ -15,32 +15,32 @@ The needs of the first objective were well aligned with what I had defined in my
 
 Data sources:
 
-- Administrative boundaries: \
-  - Source: GIS.Box \
-  - Product: boundaries from Poland, voivodeships (provinces), counties and municipalities \
-  - Type: shapefile \
-  - Spatial distribution: \
+- Administrative boundaries: 
+  - Source: GIS.Box 
+  - Product: boundaries from Poland, voivodeships (provinces), counties and municipalities 
+  - Type: shapefile 
+  - Spatial distribution: 
   - Link: https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/
   
-- Air pollution: \
-  - Source: Inspekcja Ochrony Środowiska \
-  - Product: emissions of NOx air pollution (kg) \
-  - Type: csv \
-  - Spatial distribution: points (air quality measuremente stations) \
+- Air pollution: 
+  - Source: Inspekcja Ochrony Środowiska 
+  - Product: emissions of NOx air pollution (kg) 
+  - Type: csv 
+  - Spatial distribution: points (air quality measuremente stations) 
   - Link: https://powietrze.gios.gov.pl/pjp/archives 
 
-- Traffic: \
-  - Source: Statistics Poland \
-  - Product: emissions of NOx air pollution (tonnes) \
-  - Type: csv \
-  - Spatial distribution: provinces \
+- Traffic: 
+  - Source: Statistics Poland 
+  - Product: emissions of NOx air pollution (tonnes) 
+  - Type: csv 
+  - Spatial distribution: provinces 
   - Link: https://transtat.stat.gov.pl/ 
 
-- Industry: \
-  - Source: European Environment Agency  \
-  - Product: industrial emissions of NOx (kg) \
-  - Type: csv \
-  - Spatial distribution: points \
+- Industry: 
+  - Source: European Environment Agency  
+  - Product: industrial emissions of NOx (kg) 
+  - Type: csv 
+  - Spatial distribution: points 
   - Link: https://www.eea.europa.eu/en/datahub/datahubitem-view/9405f714-8015-4b5b-a63c-280b82861b3d
 
 

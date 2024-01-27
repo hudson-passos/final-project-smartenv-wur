@@ -93,13 +93,16 @@ It is important to note that not necessarily the factors that are responsible fo
 
 <br>
 
-**Conclusions both on the results as well as on the accomplishment of the goal**
+**Conclusions on the results**
 
 The results show that the most appropriate methodology for obtaining insights into the sources with the highest contribution to air pollution was the direct data analysis through visualization features in graphs and maps.
 
 Our initial conception that feature importance analysis could identify the most important sources for air pollution did not prove to be an appropriate methodology for this purpose. The difference is that feature importance is focused on identifying the best features exclusively for air pollution prediction, without causal relationship, only in terms of correlation. The chemical industry, for example, contributes very little to air pollution in Poland, and yet it was the second feature with the highest importance for prediction, because where there are regions with huge NOx emissions, this industry is absent. This pattern was noticed during training and became crucial for the model to correctly predict NOx air pollution concentration.
 
 We can draw this conclusion with regard to both methods, because we used the same pollutants, with the same units of measurement for the explanatory variables. However, perhaps feature importance would be more useful if we were using explanatory data that cannot be directly compared, such as the number of vehicles per year in a given province.
+<br>
+
+**Conclusions on the accomplishment of the goals**
 
 With regard to the learning goals, I consider that all were successfully met, in addition to having been a great satisfaction to be able to work within the course in areas of knowledge in which we would like to delve deeper. Spatial analysis with GeoPandas, for example, is something that I will use more frequently throughout the course and my career. Similarly, the use of Github, which I have always found to have a somewhat unintuitive interface in some aspects, proved to be an excellent tool for sharing code and even text.
 

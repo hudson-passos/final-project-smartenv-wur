@@ -15,7 +15,8 @@ The needs of the first objective were well aligned with what I had defined in my
 
 2. Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
 
-3. Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE. 
+3. Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE.
+
 <br>
 
 **Data sources:**
@@ -55,7 +56,9 @@ The spreadsheet with a detailed description of all the datasets used in the proj
 
 **Methodology**
 
-The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. To do this, it was necessary to complete the following steps:
+The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. The idea is using this information to identify the contribution to the air pollution through data analysis and, additionally, applying the feature importance analysis and compare the results.
+
+In order to do all this, it was necessary to complete the following steps:
 
 - Search and download the datasets, and understand the data and how the information is organized in it;
 - Clean the data with information without coordinates, not a number and inconsistent values;

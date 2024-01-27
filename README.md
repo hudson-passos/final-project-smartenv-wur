@@ -67,11 +67,16 @@ The methodology consists of extracting information related to pollution, emissio
   - Features importance analysis
 <br>
 <br>
-<br>
+
 **Details about the implementation**
 
 The entire implementation can be accessed in full through the link: https://github.com/hudsonpassos85/DSSE/blob/main/Notebooks%20for%20GRS35306_Group%202/Objective%201_Analyze_the_contribution_of_sources_of_Nitrogen_Oxides_(NOx)_to_the_air_pollution_in_Poland_in_2019.ipynb
+<br>
+<br>
 
+**Results**
+
+**Conclusions both on the results as well as on the accomplishment of the goal**
 
 
 

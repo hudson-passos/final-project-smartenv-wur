@@ -56,7 +56,7 @@ The spreadsheet with a detailed description of all the datasets used in the proj
 
 **Methodology**
 
-The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. The idea is using this information to identify the contribution to the air pollution through data analysis and, additionally, applying the feature importance analysis and compare the results.
+The methodology consists of extracting information related to pollution, emissions of pollutants from industrial and traffic sectors, and inserting them into the polygons of their respective provinces. The idea is using this information to identify the contribution to the air pollution through data analysis and, additionally, applying the feature importance analysis to compare the results.
 
 In order to do all this, it was necessary to complete the following steps:
 

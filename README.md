@@ -11,8 +11,8 @@ The needs of the first objective were well aligned with what I had defined in my
 (2) Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
 
 (3) Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE.
-n\
-\n
+
+
 **Data sources:**
 
 - Administrative boundaries: 
@@ -45,7 +45,7 @@ n\
 
 
 The spreadsheet with a detailed description of all the datasets used in the project can be accessed at the link: https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx
-\
+
 
 **Methodology**
 
@@ -63,7 +63,7 @@ The methodology consists of extracting information related to pollution, emissio
   - Run the XGBoost model
   - Evaluate the model (cross-validation)
   - Features importance analysis
- \
+ 
  
 s
 

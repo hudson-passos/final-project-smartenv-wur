@@ -1,4 +1,4 @@
-Background
+**Background**
 
 The learning goals ("Introduction.ipynb") were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Among the criteria also included forming realistic goals to be developed in just three weeks.
 
@@ -13,7 +13,7 @@ The needs of the first objective were well aligned with what I had defined in my
 (3) Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE.
 
 
-Data sources:
+**Data sources:**
 
 - Administrative boundaries: 
   - Source: GIS.Box 

@@ -15,7 +15,7 @@ The needs of the first objective were well aligned with what I had defined in my
 
 2. Combining information: We were able to combine data from different sources into integrated dataframes. This task was less challenging than the previous one, but more laborious. I still can't make these codes cleaner and more compact. I can do repeated operations with the application of "functions", but I still have difficulty using "classes".
 
-3. Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudsonpassos85/DSSE.
+3. Github: We were able to create our repository on Github and make it our main means of sharing codes. Despite the fact that there are other more specific applications of github that we still do not know (e.g. "version control"), this experience was crucial to introduce us to this resource once and for all. Our Github repository can be found at: https://github.com/hudson-passos/DSSE.
 
 <br>
 
@@ -50,7 +50,7 @@ The needs of the first objective were well aligned with what I had defined in my
   - Link: https://www.eea.europa.eu/en/datahub/datahubitem-view/9405f714-8015-4b5b-a63c-280b82861b3d
 
 
-The spreadsheet with a detailed description of all the datasets used in the project can be accessed at the link: https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx
+The spreadsheet with a detailed description of all the datasets used in the project can be accessed at the link: https://github.com/hudson-passos/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx
 <br>
 <br>
 
@@ -77,7 +77,7 @@ To achieve all of this, we had to complete a series of steps:
 **Details about the implementation**
 
 The entire implementation can be accessed in full through the link: 
-https://github.com/hudsonpassos85/DSSE-Individual-Portfolio/blob/main/Objective%201_Analyze_the_contribution_of_sources_of_Nitrogen_Oxides_(NOx)_to_the_air_pollution_in_Poland_in_2019.ipynb
+https://github.com/hudson-passos/DSSE-Individual-Portfolio/blob/main/Objective%201_Analyze_the_contribution_of_sources_of_Nitrogen_Oxides_(NOx)_to_the_air_pollution_in_Poland_in_2019.ipynb
 
 <br>
 

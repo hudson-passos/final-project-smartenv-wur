@@ -1,6 +1,6 @@
 **Background**
 
-The learning goals were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Setting realistic goals is also among the criteria, considering that the course lasts for only three weeks. The link to the individual plan can be accessed on this link: https://github.com/hudsonpassos85/DSSE-Individual-Portfolio/blob/main/Introduction.ipynb.
+The learning goals were defined in a way to align some aspects related to data science that I would like to develop during the course, and the technical needs of the group project. Setting realistic goals is also among the criteria, considering that the course lasts for only three weeks. The link to the individual plan can be accessed on this link: https://github.com/hudson-passos/DSSE-Individual-Portfolio/blob/main/01.%20Introduction.ipynb.
 
 Initially, the group chose the topic related to air quality, and we would like the study area to be located in Europe, as there is an abundant amount of data and ease of language. In the first researches, we noticed that Poland has very high air pollution levels and this motivated us to seek to better understand the causes and consequences of this case. The project was titled: "Investigating Causes and Impacts of Air Pollution in Poland" and we divided it into three objectives: <br>
 1. "Analyze the contribution of sources of Nitrogen Oxides (NOx) to the air pollution in Poland in 2019". 
